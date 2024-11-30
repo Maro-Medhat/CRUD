@@ -8,4 +8,4 @@ users table structure :
 id -> AUTO_INCREMENT PRIMARY KEY
 name -> VARCHAR(50);
 emai -> VARCHAR(100);
-mobile -> 11;
+mobile -> VARCHAR(11);
